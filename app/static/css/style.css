@@ -1,0 +1,18 @@
+html {
+    font-family: Roboto;
+    font-size: 15px;
+}
+body {
+    background-color: #C7A39B;
+}
+.content {
+    width: 600px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 5px solid black;
+    //position: ;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
