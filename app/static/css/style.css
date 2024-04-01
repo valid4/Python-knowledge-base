@@ -3,16 +3,47 @@ html {
     font-size: 15px;
 }
 body {
-    background-color: #C7A39B;
+    background-color: #4B5658;
+    margin: 0;
 }
-.content {
-    width: 600px;
-    margin-left: 20%;
-    margin-right: 20%;
-    border: 5px solid black;
+header{
+    margin-top: 0;
+    //padding: 0;
+    height: 50px;
+    background: rgb(170,128,158);
+    background: linear-gradient(258deg, rgba(170,128,158,1) 47%, rgba(106,191,208,1) 100%);
+    //background-color: #D8EFF3;
+    border: 1px solid black;
+}
+.wrapper {
+    background-color: #D8EFF3;
+    width: 100%;
+    //max-width: 1000px;
+    margin-top: 1%;
+    margin-left: 0;
+    margin-right: 0;
+    border: 2px solid black;
+    word-break: break-all;
     //position: ;
 }
 h1 {
     text-align: center;
     font-size: 50px;
+}
+#head_ico{
+    float: left;
+    margin-top: 5px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+    width: 40px;
+    height: 40px;
+}
+.states{
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-bottom: 1%;
+    width: 70%;
+    max-width: 1000px;
+    border: 2px solid black;
+    word-break: break-all;
 }
