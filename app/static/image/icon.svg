@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="0.90688833"
+     inkscape:cx="394.2051"
+     inkscape:cy="280.62992"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="83.803041"
+       y="695.78578"
+       width="464.22474"
+       height="65.057622"
+       id="rect12" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffaaaa;stroke-width:0.268465"
+       id="rect3"
+       width="121.9509"
+       height="130.70334"
+       x="8.5883465"
+       y="12.253438"
+       inkscape:transform-center-x="0.58349702"
+       inkscape:transform-center-y="2.9174853" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.278119"
+       id="rect4"
+       width="52.222984"
+       height="138.8723"
+       x="45.512768"
+       y="8.7524557" />
+    <rect
+       style="fill:#ffaaaa;stroke-width:0.234226;fill-opacity:1"
+       id="rect5"
+       width="99.705154"
+       height="45.280014"
+       x="-32.42667"
+       y="56.546032"
+       transform="matrix(0.89634081,-0.4433657,0.67409569,0.73864403,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.311667"
+       id="rect6"
+       width="102.33873"
+       height="55.340385"
+       x="4.8618417"
+       y="80.41671"
+       transform="matrix(0.84858226,-0.52906347,0.57500359,0.81815088,0,0)" />
+    <rect
+       style="fill:#ffaaaa;stroke-width:0.268978"
+       id="rect7"
+       width="80.268333"
+       height="30.712566"
+       x="74.772339"
+       y="37.935921"
+       transform="matrix(0.95128094,0.30832544,-0.47171858,0.88174916,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect8"
+       width="20.714144"
+       height="44.345776"
+       x="158.53557"
+       y="-85.683907"
+       transform="rotate(31.418757)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264622"
+       id="rect9"
+       width="19.80047"
+       height="9.9330578"
+       x="13.785953"
+       y="-155.05064"
+       transform="matrix(-0.35655909,0.93427277,-0.94269034,-0.33366889,0,0)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.45732133,0,0,0.26458333,-30.441362,-28.883104)"
+       id="text11"
+       style="font-size:53.3333px;white-space:pre;shape-inside:url(#rect12);fill:#ff93ff;fill-opacity:1"><tspan
+         x="83.802734"
+         y="744.44274"
+         id="tspan1">Of Programming</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Слой 2">
+    <rect
+       style="fill:#d0fffd;stroke-width:0.264878;fill-opacity:1"
+       id="rect10"
+       width="32.384087"
+       height="130.99509"
+       x="130.99509"
+       y="12.253438" />
+    <rect
+       style="fill:#d0fffd;fill-opacity:1;stroke-width:0.264583"
+       id="rect11"
+       width="42.887035"
+       height="26.257366"
+       x="163.08743"
+       y="116.99115" />
+  </g>
+</svg>
