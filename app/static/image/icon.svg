@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="208.89195mm"
+   height="173.59038mm"
+   viewBox="0 0 208.89195 173.59038"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -24,37 +24,64 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="false"
-     inkscape:zoom="0.90688833"
-     inkscape:cx="394.2051"
-     inkscape:cy="280.62992"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:zoom="0.5"
+     inkscape:cx="83"
+     inkscape:cy="517"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1">
     <rect
-       x="83.803041"
-       y="695.78578"
-       width="464.22474"
-       height="65.057622"
+       x="83.80304"
+       y="695.78577"
+       width="464.22473"
+       height="65.057625"
        id="rect12" />
   </defs>
   <g
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-0.55633187,-0.3460789)">
     <rect
-       style="fill:#ffaaaa;stroke-width:0.268465"
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect1"
+       width="208.89195"
+       height="173.59038"
+       x="0.55633187"
+       y="0.3460789" />
+  </g>
+  <rect
+     style="fill:#ffffff;stroke-width:0.311667"
+     id="rect6"
+     width="102.33873"
+     height="55.340385"
+     x="4.6052852"
+     y="79.827805"
+     transform="matrix(0.84858225,-0.52906348,0.57500359,0.81815088,0,0)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Слой 3"
+     transform="translate(-0.55633187,-0.3460789)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.45732134,0,0,0.26458333,-30.97053,-28.883105)"
+       id="text11"
+       style="font-size:53.3333px;white-space:pre;shape-inside:url(#rect12);fill:#ff93ff;fill-opacity:1"><tspan
+         x="83.802734"
+         y="744.44274"
+         id="tspan2">Of Programming</tspan></text>
+    <path
        id="rect3"
-       width="121.9509"
-       height="130.70334"
-       x="8.5883465"
-       y="12.253438"
+       style="fill:#ffaaaa;stroke-width:0.268465"
        inkscape:transform-center-x="0.58349702"
-       inkscape:transform-center-y="2.9174853" />
+       inkscape:transform-center-y="2.9174853"
+       d="M 8.5883465,12.253438 H 130.53924 V 142.95678 H 8.5883465 Z" />
     <rect
        style="fill:#ffffff;stroke-width:0.278119"
        id="rect4"
@@ -63,60 +90,45 @@
        x="45.512768"
        y="8.7524557" />
     <rect
-       style="fill:#ffaaaa;stroke-width:0.234226;fill-opacity:1"
+       style="fill:#ffaaaa;fill-opacity:1;stroke-width:0.234226"
        id="rect5"
        width="99.705154"
        height="45.280014"
-       x="-32.42667"
-       y="56.546032"
-       transform="matrix(0.89634081,-0.4433657,0.67409569,0.73864403,0,0)" />
+       x="-33.0172"
+       y="56.586552"
+       transform="matrix(0.89634081,-0.4433657,0.67409568,0.73864404,0,0)" />
     <rect
-       style="fill:#ffffff;stroke-width:0.311667"
-       id="rect6"
-       width="102.33873"
-       height="55.340385"
-       x="4.8618417"
-       y="80.41671"
-       transform="matrix(0.84858226,-0.52906347,0.57500359,0.81815088,0,0)" />
+       style="fill:#ffffff;stroke-width:1.28083"
+       id="rect9"
+       width="97.699509"
+       height="47.162594"
+       x="-108.18383"
+       y="-125.61604"
+       transform="matrix(-0.87045004,0.49225676,-0.5306705,-0.84757821,0,0)" />
     <rect
        style="fill:#ffaaaa;stroke-width:0.268978"
        id="rect7"
        width="80.268333"
        height="30.712566"
-       x="74.772339"
-       y="37.935921"
+       x="74.024796"
+       y="39.520813"
        transform="matrix(0.95128094,0.30832544,-0.47171858,0.88174916,0,0)" />
     <rect
-       style="fill:#ffffff;stroke-width:0.264583"
-       id="rect8"
-       width="20.714144"
-       height="44.345776"
-       x="158.53557"
-       y="-85.683907"
-       transform="rotate(31.418757)" />
-    <rect
-       style="fill:#ffffff;stroke-width:0.264622"
-       id="rect9"
-       width="19.80047"
-       height="9.9330578"
-       x="13.785953"
-       y="-155.05064"
-       transform="matrix(-0.35655909,0.93427277,-0.94269034,-0.33366889,0,0)" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.45732133,0,0,0.26458333,-30.441362,-28.883104)"
-       id="text11"
-       style="font-size:53.3333px;white-space:pre;shape-inside:url(#rect12);fill:#ff93ff;fill-opacity:1"><tspan
-         x="83.802734"
-         y="744.44274"
-         id="tspan1">Of Programming</tspan></text>
+       style="fill:#ffffff;stroke-width:0.378847"
+       id="rect2"
+       width="30.089592"
+       height="12.277993"
+       x="127.16932"
+       y="29.101717"
+       transform="matrix(0.95705872,0.28989413,-0.27338455,0.96190482,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Слой 2">
+     inkscape:label="Слой 2"
+     transform="translate(-0.55633187,-0.3460789)">
     <rect
-       style="fill:#d0fffd;stroke-width:0.264878;fill-opacity:1"
+       style="fill:#d0fffd;fill-opacity:1;stroke-width:0.264878"
        id="rect10"
        width="32.384087"
        height="130.99509"
